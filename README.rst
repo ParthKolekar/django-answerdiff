@@ -5,7 +5,7 @@ answerdiff
 .. image:: https://badge.fury.io/py/django-answerdiff.png
     :target: https://badge.fury.io/py/django-answerdiff
 
-.. image:: https://travis-ci.com/ParthKolekar/django-answerdiff.png?branch=master
+.. image:: https://travis-ci.com/ParthKolekar/django-answerdiff.svg?token=Q1u29espyf7tbTqAPYrP&branch=master
     :target: https://travis-ci.com/ParthKolekar/django-answerdiff
 
 Checking Submissions the Boss Way using Celery and DRF
